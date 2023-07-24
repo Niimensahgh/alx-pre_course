@@ -1,1 +1,1 @@
-My first readme
+life can be frustrating
